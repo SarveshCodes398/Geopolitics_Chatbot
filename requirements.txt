@@ -3,4 +3,9 @@ python-dotenv
 langchain
 langchain-core
 langchain-mistralai
+<<<<<<< HEAD
 mistralai
+=======
+mistralai
+>>>>>>> 74d348a1d1ae9943cca9ed0c86312ea3199fc123
+
